@@ -1,0 +1,7 @@
+frmMain = 120, 78, 1410, 572, Z, 40, 26, 1370, 486, C
+ZeroTierCLI = 80, 52, 1370, 546, 
+PublicModule = 160, 104, 1450, 598, 
+LaunchWrapper = 200, 130, 1490, 624, 
+JSON = 0, 0, 1290, 494, 
+cStringBuilder = 0, 0, 0, 0, C
+cUTF8 = 0, 0, 0, 0, C
